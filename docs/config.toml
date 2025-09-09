@@ -79,8 +79,6 @@ taxonomies = "off"
 paths_keep_dates = true
 
 [extra.coffee]
-title = "Coffee Blog"
-description = "The coffee is super delicious."
 keyword = "blog coffee drink"
 
 about = """
