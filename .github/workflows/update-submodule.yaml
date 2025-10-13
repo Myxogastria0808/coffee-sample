@@ -1,4 +1,4 @@
-name: Update Submodules
+name: Update Submodule
 
 # References
 # https://zenn.dev/ymmmtym/articles/dc741561759a49
@@ -15,7 +15,7 @@ permissions:
   contents: write
 
 jobs:
-  update-submodules:
+  update-submodule:
     runs-on: ubuntu-latest
 
     steps:
