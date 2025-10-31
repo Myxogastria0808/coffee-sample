@@ -22,7 +22,4 @@ jobs:
         with:
           nix_path: nixpkgs=channel:nixpkgs-unstable
       - name: Check Articles
-        run: |
-          cd docs
-          ls -la
-          nix develop --command bash -c "zola check"
+        run: nix develop --command bash -c "cd docs && zola check"
