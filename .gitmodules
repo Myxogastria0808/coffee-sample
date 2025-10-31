@@ -1,3 +1,4 @@
 [submodule "docs/themes/coffee"]
 	path = docs/themes/coffee
 	url = https://github.com/Myxogastria0808/coffee.git
+	branch = main
