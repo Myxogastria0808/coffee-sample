@@ -22,4 +22,5 @@ jobs:
       - name: Check Articles
         run: |
           cd docs
+          ls -la
           nix develop --command bash -c "zola check"
