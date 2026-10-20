@@ -23,4 +23,4 @@ My favorite way to drink coffee is to add caramel flavored sugar to black coffee
 
 I create a logo for my blog theme named "coffee".
 
-{{ image(path="/content/coffee/coffee.webp") }}
+{{ <image path="/content/coffee/coffee.webp" /> }}
