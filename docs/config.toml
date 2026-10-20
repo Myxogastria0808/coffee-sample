@@ -42,6 +42,7 @@ light_theme = "github-light"
 # The syntax highlighting theme to use in dark mode
 dark_theme = "github-dark"
 
+[markdown]
 # When set to "true", emoji aliases translated to their corresponding
 # Unicode emoji equivalent in the rendered Markdown files. (e.g.: :smile: => 😄)
 render_emoji = true
